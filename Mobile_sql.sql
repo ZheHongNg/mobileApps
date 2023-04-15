@@ -1,0 +1,1 @@
+CREATE TABLE IF NOT EXISTS 'TripDetail'( 'trip_Id' INTEGER PRIMARY KEY AUTOINCREMENT, 'title' TEXT, 'location' TEXT, 'departDate' TEXT, 'returnDate' TEXT, 'isInsuSelect' INTEGER, 'numOfPerson' INTEGER, 'Description' TEXT)
